@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556926052768",
+    "firebase_url": "https://flutter-combinemultiplenodes.firebaseio.com",
+    "project_id": "flutter-combinemultiplenodes",
+    "storage_bucket": "flutter-combinemultiplenodes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556926052768:android:b9d1864a5d393f738a1cc5",
+        "android_client_info": {
+          "package_name": "com.flutterfirebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556926052768-6sjqcjv7ge274okifc0l53dvcg93l81o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwnuhUaeZo4C6Pt6U5KWnISpPNGavIlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556926052768-6sjqcjv7ge274okifc0l53dvcg93l81o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
